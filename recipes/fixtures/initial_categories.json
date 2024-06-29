@@ -1,0 +1,9 @@
+[
+    {"model": "recipes.category", "pk": 1, "fields": {"name": "Street Food", "description": "Quick and tasty street food."}},
+    {"model": "recipes.category", "pk": 2, "fields": {"name": "Breakfast", "description": "Delicious breakfast recipes."}},
+    {"model": "recipes.category", "pk": 3, "fields": {"name": "Lunch", "description": "Hearty lunch recipes."}},
+    {"model": "recipes.category", "pk": 4, "fields": {"name": "Dinner", "description": "Sumptuous dinner recipes."}},
+    {"model": "recipes.category", "pk": 5, "fields": {"name": "Dessert", "description": "Sweet and delightful desserts."}},
+    {"model": "recipes.category", "pk": 6, "fields": {"name": "Snacks", "description": "Tasty and quick snacks."}}
+]
+
